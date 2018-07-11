@@ -7,6 +7,9 @@ A place for me to store links that I have found useful but that might also be us
 #### [The IDE](https://code.visualstudio.com/download)
 This is an awesome IDE that I have been using personally and professionally to develop Vue, Alexa (Node) and PHP projects. It is very customisable
 
+#### [My Extention Pack](https://marketplace.visualstudio.com/items?itemName=iamsimonsmale.simons-extention-pallet)
+A curated list of everything I use. Some of the key ones are listed below
+
 #### [Vue.js Extention Pack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
 Everything you could need for developing vue.js apps
 
@@ -26,7 +29,26 @@ One stop shop for all things frontend. New episode released every Wednesday and 
 
 ### Youtubers
 
-*TODO*
+#### [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+Awesome channel of talks from a variety conferences 
+
+#### [Design Course](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+Great channel that covers code and design.
+
+#### [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+Another awesome channel that covers beginner and intermediate code
+
+#### [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+The place to be on a Monday morning. A wide variety of content.
+
+#### [Codingthesmartway](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
+A channel that I find always has good content when looking to learn something new
+
+#### [Steve Schoger](https://www.youtube.com/channel/UCxqiDtkXtOCNJdckODHk9YA)
+Great design tips. Worth a follow on Twitter too.
+
+#### [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+A new channel but I really like the way he explains things
 
 ## Vue.js
 
